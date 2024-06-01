@@ -1,6 +1,6 @@
 const $ = require("jquery");
 const _ = require("jquery");
-import "../css/main.css"
+import "../css/main.css";
 
 let count = 0;
 
